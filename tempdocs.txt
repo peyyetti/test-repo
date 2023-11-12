@@ -1,0 +1,5 @@
+This is a temporary doc
+I use this to test git commands
+I am learning git and vim
+vim is hard and so is git
+
